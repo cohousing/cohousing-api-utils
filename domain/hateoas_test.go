@@ -1,8 +1,8 @@
 package domain
 
 import (
-	"testing"
 	"github.com/stretchr/testify/assert"
+	"testing"
 )
 
 func TestDefaultHalResource_AddLink(t *testing.T) {
